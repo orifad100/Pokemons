@@ -2,6 +2,7 @@
 C project - Advanced programming course
 
 This project was done as part of the “Advanced programming course”. The aim of the project is to create and use structs, pointers (include function pointers to data-sigment), memory allocations and memory leaks. This project is a combination of 2 parts .
+
 Pokemon-part1 is about building a "Pokedex" and including modules such as:
 
 Defs.h: definitions header.
