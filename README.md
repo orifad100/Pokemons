@@ -1,5 +1,6 @@
 # Pokemon's Project
-C project - Advanced programming course
+C project - Advanced programming course 1nd semester, 2nd year.
+
 
 This project was done as part of the “Advanced programming course”. The aim of the project is to create and use structs, pointers (include function pointers to data-sigment), memory allocations and memory leaks. This project is a combination of 2 parts .
 
